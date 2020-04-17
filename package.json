@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "webpack-load-module-issue",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack && node dist/main"
+  },
+  "dependencies": {
+    "loader-utils": "^2.0.0",
+    "webpack": "^5.0.0-beta.13",
+    "webpack-cli": "^3.3.11"
+  }
+}
