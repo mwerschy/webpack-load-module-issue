@@ -6,7 +6,7 @@
     "start": "webpack && node dist/main"
   },
   "dependencies": {
-    "loader-utils": "^2.0.0",
+    "loader-utils": "^2.0.4",
     "webpack": "^5.0.0-beta.13",
     "webpack-cli": "^3.3.11"
   }
